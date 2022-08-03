@@ -1,0 +1,14 @@
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.dll.config
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.dll
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.pdb
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.csproj.AssemblyReference.cache
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.csproj.CoreCompileInputs.cache
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.dll
+C:\Users\irem\OneDrive\Masaüstü\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.pdb
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.dll.config
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.dll
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\bin\Debug\DenemeServisSinif.pdb
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.csprojAssemblyReference.cache
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.csproj.CoreCompileInputs.cache
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.dll
+C:\Users\irem\OneDrive\Masaüstü\Bootcamp Uygulamaları\.net projeler\c#\DenemeServisSinif\DenemeServisSinif\obj\Debug\DenemeServisSinif.pdb
